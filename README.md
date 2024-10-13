@@ -9,15 +9,7 @@
 <img src="https://github.com/gityash56/Shoping-Cart/assets/90525149/80b5114d-c65c-4a78-868d-1043dc81005a" width="31%" height="40%">
 <img src="https://github.com/gityash56/Shoping-Cart/assets/90525149/2e450bda-60bd-4e76-8b79-99f251869349" width="31%" height="40%">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Follow for more projects❤️ 👉  [github.com/gityash56](https://github.com/gityash56)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Be a part of the project by ⭐️(star) & (forking) this project.
